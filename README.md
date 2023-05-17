@@ -2,8 +2,6 @@
 <h3 align="center">A fresh Software engineering</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<h1 align="center">Hi 👋, I'm Ahmed Ibrahim</h1>
-<h3 align="center">A fresh Software engineering</h3>
 
 - 🌱 I’m currently learning **Machine learning**
 
