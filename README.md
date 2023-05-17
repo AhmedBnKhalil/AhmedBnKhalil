@@ -1,6 +1,7 @@
+[![MasterHead](https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Ibrahim</h1>
 <h3 align="center">A fresh Software engineering</h3>
-(img align="right" alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif")
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbnkhalil" alt="ahmedbnkhalil" /></a> </p>
 
