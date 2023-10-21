@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- ⚡ Fun fact **I am bad at maths**
+- ⚡ Fun fact **I am bad at math**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
